@@ -1,0 +1,64 @@
+{
+  "app_title": "Zuflucht — Weinstock & Öl",
+  "home_title": "Botschaft an die Menschheit",
+  "home_lead": "Gott ruft dich jetzt. Kehre um, glaube dem Evangelium und folge Jesus. Heute – nicht morgen – ist der Tag des Heils.",
+  "cta_pray": "Jetzt beten",
+  "cta_bible": "Bibel lesen",
+  "cta_share": "Teilen",
+  "cta_donate": "Mission unterstützen",
+  "cta_plan": "Täglicher Weg",
+  "cta_mission": "Missionsdienst",
+  "cta_stage": "Wachstumsstufen",
+  "vine_hint": "Ich bin der Weinstock, ihr seid die Reben. — Johannes 15,5",
+  "oil_hint": "Eure Lenden sollen umgürtet sein und die Lampen brennend. — Lukas 12,35",
+  "verses": [
+    "Johannes 14,6 — Ich bin der Weg und die Wahrheit und das Leben.",
+    "Johannes 3,16 — Denn so sehr hat Gott die Welt geliebt.",
+    "Psalm 34,19 — Nahe ist der HERR denen, die zerbrochenen Herzens sind.",
+    "Offenbarung 22,12 — Siehe, ich komme bald."
+  ],
+  "pray_title": "Gebet der Umkehr und des Glaubens",
+  "pray_text": "Himmlischer Vater,\nich komme zu Dir im Namen Deines Sohnes Jesus Christus.\nIch bekenne, dass ich gesündigt habe und Deine Vergebung brauche.\nIch glaube, dass Jesus für mich gestorben ist und dass Du Ihn von den Toten auferweckt hast.\nDurch das Blut Jesu bin ich reingewaschen von aller Schuld.\nIch wende mich ab von meinen Wegen und will Dir von nun an folgen.\nFülle mich mit Deinem Heiligen Geist, leite mich in Deiner Wahrheit und stärke mich, Deinen Willen zu tun.\nIch vertraue Dir heute mein Leben an. Amen.",
+  "amen": "Amen – Gott segne dich!",
+  "plan_title": "Täglicher Weg",
+  "plan_intro": "Ein einfacher Rhythmus für schwere Tage: Schrift, Gebet, Liebe in Tat und Zeugnis.",
+  "plan_steps": [
+    "Still werden vor Gott; ein Kapitel aus dem Evangelium lesen (z. B. Johannes 1).",
+    "Ehrlich beten; bekennen; um den Heiligen Geist und Kraft bitten.",
+    "In Liebe handeln: vergeben, helfen, versöhnen.",
+    "Teile die Hoffnung heute mit einer Person."
+  ],
+  "mission_title": "Missionsdienst",
+  "mission_add": "Eintrag hinzufügen",
+  "mission_types": [
+    "Gebetet",
+    "Geholfen",
+    "Evangelium geteilt",
+    "Vergeben"
+  ],
+  "stage_title": "Wachstumsstufen in Christus",
+  "stage_names": [
+    "Neugeboren",
+    "Kind",
+    "Jung",
+    "Reif",
+    "Vater/Mutter"
+  ],
+  "stage_desc": [
+    "Verlange nach der reinen Milch (1 Petr 2,2). Erste Schritte im Gebet; Abkehr von offenkundiger Sünde.",
+    "Den Vater kennen; Gewissheit der Vergebung (1 Joh 2,12).",
+    "Den Bösen überwunden; das Wort bleibt (1 Joh 2,13–14).",
+    "Frucht in Liebe, Gehorsam und Standhaftigkeit (Gal 5,22–23; Eph 4,15).",
+    "Andere stärken und den Glauben weitergeben (2 Tim 2,2)."
+  ],
+  "reminders_title": "Erinnerungen",
+  "reminders_enable": "Tägliche Erinnerung (9:00) aktivieren",
+  "reminders_disable": "Erinnerung deaktivieren",
+  "settings_title": "Einstellungen",
+  "language": "Sprache",
+  "share_text": "Hoffnung in Jesus – heute ist der Tag des Heils. (Johannes 14,6)",
+  "donate_info": "Deine Gabe hilft, diese Botschaft weltweit zu teilen.",
+  "bridegroom_call": "Siehe, der Bräutigam kommt! — Matthäus 25,6",
+  "ok": "OK",
+  "cancel": "Abbrechen"
+}

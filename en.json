@@ -1,0 +1,64 @@
+{
+  "app_title": "Refuge — Vine & Oil",
+  "home_title": "Message to Humanity",
+  "home_lead": "God is calling you now. Repent, believe the gospel, and follow Jesus. Today—not tomorrow—is the day of salvation.",
+  "cta_pray": "Pray now",
+  "cta_bible": "Read Bible",
+  "cta_share": "Share",
+  "cta_donate": "Support mission",
+  "cta_plan": "Daily path",
+  "cta_mission": "Mission log",
+  "cta_stage": "Growth stages",
+  "vine_hint": "I am the vine; you are the branches. — John 15:5",
+  "oil_hint": "Keep your lamp burning — Luke 12:35",
+  "verses": [
+    "John 14:6 — I am the way and the truth and the life.",
+    "John 3:16 — For God so loved the world that He gave His one and only Son.",
+    "Psalm 34:18 — The LORD is near to the brokenhearted.",
+    "Revelation 22:12 — Behold, I am coming soon."
+  ],
+  "pray_title": "Prayer of Repentance and Faith",
+  "pray_text": "Heavenly Father,\nI come to You in the name of Your Son, Jesus Christ.\nI confess my sin and need Your forgiveness.\nI believe that Jesus died for me and that You raised Him from the dead.\nBy the blood of Jesus I am washed clean from all guilt.\nI turn from my ways and choose to follow You from now on.\nFill me with Your Holy Spirit, lead me in Your truth, and strengthen me to live in Your will.\nI entrust my life to You today. Amen.",
+  "amen": "Amen — God bless you!",
+  "plan_title": "Daily Path",
+  "plan_intro": "A simple rhythm for troubled days: Scripture, prayer, love in action, and witness.",
+  "plan_steps": [
+    "Be still before God; read one chapter from the Gospel (e.g., John 1).",
+    "Pray honestly; confess; ask for the Holy Spirit and strength.",
+    "Act in love: forgive, help, reconcile.",
+    "Share the hope with one person today."
+  ],
+  "mission_title": "Mission log",
+  "mission_add": "Add entry",
+  "mission_types": [
+    "Prayed",
+    "Helped",
+    "Shared Gospel",
+    "Forgave"
+  ],
+  "stage_title": "Growth stages in Christ",
+  "stage_names": [
+    "Newborn",
+    "Child",
+    "Young",
+    "Mature",
+    "Father/Mother"
+  ],
+  "stage_desc": [
+    "Crave pure milk (1 Pet 2:2). First steps in prayer; turning from obvious sin.",
+    "Know the Father; assurance of forgiveness (1 Jn 2:12).",
+    "Overcome the evil one; the Word abides (1 Jn 2:13–14).",
+    "Bear fruit in love, obedience, and endurance (Gal 5:22–23; Eph 4:15).",
+    "Strengthen others and pass on the faith (2 Tim 2:2)."
+  ],
+  "reminders_title": "Reminders",
+  "reminders_enable": "Enable daily reminder (9:00)",
+  "reminders_disable": "Disable reminder",
+  "settings_title": "Settings",
+  "language": "Language",
+  "share_text": "Hope in Jesus — Today is the day of salvation. (John 14:6)",
+  "donate_info": "Your gift helps share this message globally.",
+  "bridegroom_call": "Behold, the Bridegroom is coming! — Matthew 25:6",
+  "ok": "OK",
+  "cancel": "Cancel"
+}
